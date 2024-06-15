@@ -1,5 +1,5 @@
 import Card from './Card';
-import { dummyData } from '../../db';
+import { dummyData } from '../../data';
 
 const Cards = ({setState}) => {
   return (
